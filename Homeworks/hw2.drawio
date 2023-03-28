@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T09:56:26.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wW-sFyUgDhXXrVjZIjf4" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T10:03:25.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cd70Po_0p0Gxb7M6T5SX" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1760" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2378" dy="1888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="X_ObQz0MvqeAvcVC8B-2-4" value="BRN_CUST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="685" y="625" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X_ObQz0MvqeAvcVC8B-2-5" value="investment customers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="X_ObQz0MvqeAvcVC8B-2-5" value="INVST_CUST" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="778.75" width="105" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X_ObQz0MvqeAvcVC8B-2-6" value="o" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
