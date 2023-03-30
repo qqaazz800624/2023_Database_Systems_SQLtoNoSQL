@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T15:31:10.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="K08cwUEoRMQQEanRszcn" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T15:36:03.748Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jTBVWBegZ-I6MvaJVRE9" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1760" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -713,7 +713,7 @@
             <mxPoint x="191" y="9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J5DV_cM6mvaHBMB3vJVb-21" value="bank customers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J5DV_cM6mvaHBMB3vJVb-21" value="BANK_CUST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298" y="-120" width="117" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J5DV_cM6mvaHBMB3vJVb-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J5DV_cM6mvaHBMB3vJVb-11" target="J5DV_cM6mvaHBMB3vJVb-24">
